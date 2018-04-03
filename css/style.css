@@ -133,8 +133,10 @@ a:focus{
 
 }
 
+
+
 .media-body h4 {
-	margin-bottom: 20px;
+	margin: 20px 0px;
 	font-size: 16px;
 	font-weight: 700;
 	color: rgb(47, 147, 123);
@@ -151,6 +153,7 @@ a:focus{
 	width: 60px;
 }
 
+.section-title a{ color: #333;}
 .section-title h2{ font-weight: 700;}
 button.btn,
 a.btn {
@@ -221,7 +224,7 @@ ul.cat.list-inline li a:hover{
 .nopadding{ padding:  0;}
 
 #tf-about{
-	background: url(../img/jack_zhang.jpg);
+	background: url(../img/jack_zheng.jpg);
 	background-size:contain;
 	background-position:left;
 	background-attachment: scroll;
